@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //在这里toast一句话
         Toast.makeText(this, "今天是周二", Toast.LENGTH_SHORT).show();
+        //第二次toast
+        Toast.makeText(this, "第二次", Toast.LENGTH_SHORT).show();
     }
 }
