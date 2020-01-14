@@ -15,5 +15,8 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "今天是周二", Toast.LENGTH_SHORT).show();
         //第二次toast
         Toast.makeText(this, "第二次", Toast.LENGTH_SHORT).show();
+        //
+        //
+        //好好学习天天向上
     }
 }
